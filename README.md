@@ -1,4 +1,4 @@
-<h1>👋 Hey to you</h1>
+<h1>👋 Hey </h1>
 * How to reach me ...
 <img src="https://tryhackme.com/img/getting-started/rocketman.png">
 
